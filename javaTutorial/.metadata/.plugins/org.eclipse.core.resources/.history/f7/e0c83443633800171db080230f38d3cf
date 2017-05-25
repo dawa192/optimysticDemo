@@ -1,0 +1,5 @@
+package com.optimystic.jee;
+
+public class LoginController {
+
+}

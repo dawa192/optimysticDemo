@@ -1,0 +1,8 @@
+package com.optimystic.login;
+
+public class LoginService {
+	public Boolean loginValidation(String username, String password ){
+		return( (username =="dawa")&&(password == "lama"));
+	}
+
+}

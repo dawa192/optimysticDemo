@@ -1,0 +1,13 @@
+package com.optimystic.jee;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class LoginController {
+	
+	@RequestMapping(value ="login")
+	public String sayHello(){
+		return "";
+	}
+
+}

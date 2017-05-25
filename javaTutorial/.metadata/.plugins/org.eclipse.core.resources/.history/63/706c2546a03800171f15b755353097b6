@@ -1,0 +1,5 @@
+package com.optimystic.login;
+
+public class LoginService {
+
+}

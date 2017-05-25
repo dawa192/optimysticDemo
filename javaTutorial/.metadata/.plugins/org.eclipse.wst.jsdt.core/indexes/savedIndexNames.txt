@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/dawa192apple/javaTutorial/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+7645663.index
+3677651393.index
+3556140607.index
+29066075.index
+3167242687.index
+2207329824.index
